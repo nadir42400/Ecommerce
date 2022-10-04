@@ -1,0 +1,18 @@
+.home {
+    flex: 4;
+}
+
+.sideBar {
+    width: 250px;
+}
+
+.core {
+    margin-top: -890px;
+    margin-left: 400px;
+
+}
+
+.homeWidgets {
+    display: flex;
+    margin: 20px;
+}
